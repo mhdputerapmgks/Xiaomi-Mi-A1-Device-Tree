@@ -27,4 +27,6 @@
     <string name="config_SmartChargingSupspendValue" translatable="false">0</string>
     <string name="config_SmartChargingResumeValue" translatable="false">1</string>
 
+    <!-- Whether to enable SelinuxSwitch -->
+    <bool name="config_enable_selinux_switch">false</bool>
 </resources>
